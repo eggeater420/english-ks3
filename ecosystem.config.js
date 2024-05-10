@@ -1,6 +1,6 @@
 module.exports = {
     apps: [{
-        name: 'HolyUB',
+        name: 'Learning for KS3 & Up',
         script: './backend.js',
         env: {
             PORT: 8078,
